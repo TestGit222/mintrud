@@ -1,0 +1,258 @@
+/* Здесь куча лишних стилей - подгоните под себя */
+table.listUser, table.listName  {
+    border-spacing: 1px;
+    background-color: #929292;
+    clear: both;
+}
+h1 {
+    color: #4267BC;
+    font-family: Tahoma;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-bottom: 8px;
+}
+.vh1 {
+    font-size: 14pt;
+    color: #989898;
+}
+.vh1 a {
+    color: #A4A4A4;
+    text-decoration: none;
+    border-bottom: 1px solid #A3A3A3;
+}
+.vh1 a.add {
+    color: #4267BC;
+    text-decoration: none;
+    border-bottom: 1px solid #A3A3A3;
+}
+table.add td {
+    font-family: Tahoma;
+    font-size: 14pt;
+}
+table.add input.noact {
+    background-color: #D4DEFF;
+}
+table.add a.chang {
+    color: #2852A8;
+    font-size: 100%;
+    font-family: Arial;
+    font-stretch: condensed;
+}
+
+table.add select {
+    background-color:#ffffff;
+}
+
+.pole {
+    width: 500px;
+}
+
+table.add a {
+    color: #6C6C6C;
+    font-size: 80%;
+}
+
+
+
+.vh1 a:hover {
+    color: #4D4D4D;
+    text-decoration: none;
+    border-bottom: 2px solid #254392;
+}
+
+
+.listUser td, .listName td {
+    font-family: Arial;
+    padding: 8px;
+    background-color: #FFFFFF;
+    font-size: 14pt;
+}
+.listUser tr:nth-child(1) td{
+    background-color: #E7ECFF;
+    font-stretch: condensed;
+}
+.listUser td:nth-child(1){
+    white-space: nowrap;
+}
+.listUser td:nth-child(2){
+    text-align: center;
+}
+.listUser td {
+    font-stretch: condensed;
+    text-align: center;
+    font-size: 13pt;
+}
+
+p.list {
+    font-family: Tahoma;
+    font-size: 16pt;
+}
+.list a {
+    color: #9B1F21;
+}
+.listName a {
+    color: #646464;
+    font-stretch: condensed;
+}
+p.add {
+    padding: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 8px;
+}
+p.add a {
+    font-family: Tahoma;
+    font-size: 14pt;
+    color: #9A2426;
+}
+h2.add {
+    font-family: Tahoma;
+    font-size: 20pt;
+    font-weight: normal;
+    color: #4267C8;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+div.add {
+    display: block;
+    background-color: #FFFCDA;
+    float: left;
+    border: 1px solid #ACACAC;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    margin-bottom: 16px;
+}
+table.add .del {
+    display: block;
+    float: left;
+    color: #737373;
+    font-size: 80%;
+}
+.listName tr:nth-child(1) td {
+    background-color: #DAE6FF;
+}
+.listUser a {
+    color: #4C71D4;
+}
+p.status {
+    display: block;
+    background-color: #FFFFB8;
+    border: 1px solid #787800;
+    font-family: Verdana;
+    font-size: 10pt;
+    float: left;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    margin-top: 4px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+}
+.main .cont {
+    
+}
+
+
+
+.podp {
+    font-size: 12pt;
+    font-family: Arial;
+    font-stretch: condensed;
+}
+h1.err {
+    color: #AD3537;
+    border-bottom: 1px solid #AD3537;
+}
+.list.gr {
+    color: #6C6C6C;
+}
+.user {
+    font-family: Verdana;
+    font-size: 10pt;
+    color: #0D0D0D;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h1 {
+}
+h2 {
+    font-family: Tahoma;
+    font-weight: normal;
+    color: #4267BC;
+}
+blockquote p {
+    font-family: Arial;
+    font-size: 14pt;
+    color: #494949;
+}
+blockquote p a {
+    color: #323232;
+    text-decoration: none;
+    border-bottom: 1px solid #9E9E9E;
+}
+h2.hr {
+    border-top: 1px dashed #ABABAB;
+    padding-top: 12px;
+    margin-top: 20px;
+}
+h2.hr2 {
+    border-top: 1px dashed #ABABAB;
+    padding-top: 12px;
+    margin-top: 8px;
+}
+
+.instr p {
+    font-family: Tahoma;
+    padding-left: 8px;
+}
+.instr p a {
+    color: #A73537;
+}
+.instr ol {
+    font-family: Tahoma;
+}
+ol li a {
+    color: #555555;
+}
+
+.instr ol li {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    line-height: 120%;
+}
+form {
+    background-color: #FFFFD7;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    width: 400px;
+    display: block;
+    border: 1px solid #A6A6A6;
+    font-family: Arial;
+}
+form strong {
+    color: #A40001;
+    font-weight: normal;
+    font-family: Verdana;
+    font-size: 80%;
+    padding-top: 16px;
+    display: block;
+}
